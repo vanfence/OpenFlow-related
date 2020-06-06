@@ -1,0 +1,40 @@
+http://www.openvswitch.org//support/dist-docs/
+
+包括以下命令
+ovn-architecture(7)	PDF, HTML, plain text
+ovn-controller(8)	PDF, HTML, plain text
+ovn-controller-vtep(8)	PDF, HTML, plain text
+ovn-ctl(8)	PDF, HTML, plain text
+ovn-detrace(1)	PDF, HTML, plain text
+ovn-nb(5)	PDF, HTML, plain text
+ovn-nbctl(8)	PDF, HTML, plain text
+ovn-northd(8)	PDF, HTML, plain text
+ovn-sb(5)	PDF, HTML, plain text
+ovn-sbctl(8)	PDF, HTML, plain text
+ovn-trace(8)	PDF, HTML, plain text
+ovs-appctl(8)	PDF, HTML, plain text
+ovs-bugtool(8)	PDF, HTML, plain text
+ovs-ctl(8)	PDF, HTML, plain text
+ovsdb-client(1)	PDF, HTML, plain text
+ovsdb-server(1)	PDF, HTML, plain text
+ovsdb-tool(1)	PDF, HTML, plain text
+ovs-dpctl(8)	PDF, HTML, plain text
+ovs-dpctl-top(8)	PDF, HTML, plain text
+ovs-fields(7)	PDF, HTML, plain text
+ovs-l3ping(8)	PDF, HTML, plain text
+ovs-ofctl(8)	PDF, HTML, plain text
+ovs-parse-backtrace(8)	PDF, HTML, plain text
+ovs-pcap(1)	PDF, HTML, plain text
+ovs-pki(8)	PDF, HTML, plain text
+ovs-tcpdump(8)	PDF, HTML, plain text
+ovs-tcpundump(1)	PDF, HTML, plain text
+ovs-testcontroller(8)	PDF, HTML, plain text
+ovs-vlan-bug-workaround(8)	PDF, HTML, plain text
+ovs-vsctl(8)	PDF, HTML, plain text
+ovs-vswitchd(8)	PDF, HTML, plain text
+ovs-vswitchd.conf.db(5)	PDF, HTML, plain text
+vtep(5)	PDF, HTML, plain text
+vtep-ctl(8)
+
+
+如：http://www.openvswitch.org//support/dist-docs/ovs-tcpdump.8.pdf   为子项中的网址
